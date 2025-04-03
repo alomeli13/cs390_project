@@ -1,6 +1,6 @@
 An h1 header
 ============
-
+//This is my change
 
 Paragraphs are separated by a blank line. 
 
@@ -34,6 +34,7 @@ Here's a numbered list:
  1. first item
  2. second item
  3. third item
+ 4. fourth item
 
 Note again how the actual text starts at 4 columns in (4 characters
 from the left side). Here's a code sample:
